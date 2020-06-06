@@ -1,6 +1,6 @@
 body {font-size:100%;}
 
-#poemtitle {
+#nametitle {
 	font-size: 1.75rem;
 	font-family: canada-type-gibson;
 	font-weight: bolder;
@@ -70,7 +70,28 @@ body {font-size:100%;}
 	color: #000;
 	text-align: center;
 	font-size: 1.1875rem;
-	font-family: Garamond,Baskerville,'Baskerville Old Face','Hoefler Text','Times New Roman',serif;
+	font-family: canada-type-gibson;
+	display: inline-block;
+}
+
+.bioBlock{
+	width: 49%;
+	margin-bottom: 20px;
+	color: #000;
+	text-align: left;
+	font-size: 1.1875rem;
+	font-family: canada-type-gibson;
+	display: inline-block;
+}
+
+
+.avatarDaizong{
+	width: 120px;
+	margin-bottom: 20px;
+	color: #000;
+	text-align: left;
+	font-size: 1.1875rem;
+	font-family: canada-type-gibson;
 	display: inline-block;
 }
 
